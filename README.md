@@ -8,7 +8,7 @@ Features:
 * Feedback control
 * Stereo field visualiser 
 * Panner module with tempo-synced auto-panning at 4 different speeds and width control (amount)
-* Modulation module includes a phaser and a chorus
+* Modulation section includes a phaser and a chorus
 * A reverb module 
 * High cut and low cut filters module
 * Output module with dry & wet controls, and a master bypass
