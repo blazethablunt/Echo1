@@ -17,3 +17,5 @@ Features:
 * Button states displayed on hover
 * All modules only affect the wet signal
 * 4 built-in presets
+
+[Download Echo1 (Latest)](https://github.com/blazethablunt/Echo1/releases/latest/download/Echo1-windows.exe)
