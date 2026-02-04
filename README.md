@@ -4,7 +4,9 @@
 
 Features:
 • Dual delay engine: 2 independent delay lines with separate time/speed controls
+
 • Sync mode: lock both delay lines to the Left delay time with one button
+
 • Feedback control for classic echoes → wild repeats
 • Stereo Field Visualiser to see the width/movement in real time
 • Tempo-synced auto-panner: 4 rate options + Width/Amount control
