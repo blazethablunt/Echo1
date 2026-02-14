@@ -18,5 +18,5 @@ Features:
 * All modules only affect the wet signal
 * 4 built-in presets
 
-[Download for windows](https://github.com/blazethablunt/Echo1/releases/latest/download/Echo1-windows.exe)
+[Download for windows](https://github.com/blazethablunt/Echo1/releases/latest/download/Echo1-Win.exe)
 [Download for macOS](https://github.com/blazethablunt/Echo1/releases/latest/download/Echo1-macOS.pkg)
